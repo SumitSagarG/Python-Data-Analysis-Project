@@ -1,8 +1,13 @@
-Exploratory Data Analysis on Movie Dataset
-Overview
+# Exploratory Data Analysis on Movie Dataset
+
+
+## Overview
+
+
 This repository contains a comprehensive Exploratory Data Analysis (EDA) of a movie dataset using Python. The analysis utilizes various libraries, including Pandas, Seaborn, and Matplotlib, to extract valuable insights from the data. The goal is to understand trends, patterns, and key metrics that can inform decision-making in the movie industry.
 
-Table of Contents
+## Table of Contents
+
 Introduction
 Dataset Description
 Technologies Used
@@ -12,14 +17,14 @@ Usage
 License
 
 
-Introduction
+### Introduction
 The movie industry generates a vast amount of data that can provide insights into trends, audience preferences, and financial performance. This EDA aims to visualize and analyze various aspects of the movie dataset to derive meaningful conclusions that can be useful for filmmakers, marketers, and analysts.
 a data set of 1,000 most popular movies on IMDB from 2006-2016 was used. the data points included are:
 
 Title, Genre, Description, Director, Actors, Year, Runtime, Rating, Votes, Revenue, Metascrore
 
 
-Dataset Description
+### Dataset Description
 The dataset used for this analysis includes various attributes of movies such as:
 
 Title
@@ -34,7 +39,7 @@ Cast
 
 Please refer to the dataset file for a complete list of features and their descriptions.
 
-Technologies Used
+### Technologies Used
 Python: Programming language used for analysis
 Pandas: Data manipulation and analysis
 Seaborn: Data visualization based on Matplotlib
@@ -42,7 +47,7 @@ Matplotlib: Basic plotting library for visualizations
 Jupyter Notebook: Environment for conducting the analysis
 
 
-Key Questions asked:
+### Key Questions asked:
 
 1. Display Top 10 Rows of The Dataset
 2. Check Last 10 Rows of The Dataset
@@ -69,10 +74,5 @@ Key Questions asked:
 23. How Many Films of Each Genre Were Made?
 
 
-Contributing
-Contributions are welcome! Please feel free to submit issues or pull requests for improvements or additional features.
 
 For any questions or further information, please feel free to reach out.
-
-Happy analyzing! 🍿
- 
