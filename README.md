@@ -1,5 +1,5 @@
 # Exploratory Data Analysis on Movie Dataset
-
+![image alt](https://github.com/SumitSagarG/Python-Data-Analysis-Project/blob/main/IMDb_BrandBanner_1920x425.jpg?raw=true)
 
 ## Overview
 
